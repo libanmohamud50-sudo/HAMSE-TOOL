@@ -1,0 +1,2 @@
+-keep class com.hamse.tool.security.** { *; }
+-keepattributes Signature
